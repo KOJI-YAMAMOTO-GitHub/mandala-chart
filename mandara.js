@@ -7,7 +7,7 @@ window.onload = function () {
   if (textvalue) {
     document.getElementById('tiltle-textarea').value = textvalue;
   } else {
-    document.getElementById('tiltle-textarea').value = "マンダラチャート";
+    document.getElementById('tiltle-textarea').value = "マンダラチャートタイトル変更可能";
   }
   document.getElementById('column1-1-textarea').value = localStorage.getItem('column1-1-textarea');
   document.getElementById('column1-2-textarea').value = localStorage.getItem('column1-2-textarea');
