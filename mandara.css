@@ -14,64 +14,64 @@ body * {
 }
 div[class^="column1-"] {
   border : 1px solid #808080;
-  background-color: #b0c4de;
+  /* background-color: #b0c4de; */
 }
 div[class^="column2-"] {
   border : 1px solid #808080;
-  background-color: #7fffd4;
+  /* background-color: #7fffd4; */
 }
 div[class^="column3-"] {
   border : 1px solid #808080;
-  background-color: #fffacd;
+  /* background-color: #fffacd; */
 }
 div[class^="column4-"] {
   border : 1px solid #808080;
-  background-color: #add8e6;
+  /* background-color: #add8e6; */
 }
 div[class^="column5-"] {
   border : 1px solid #808080;
-  background-color: aqua;
+  /* background-color: aqua; */
 }
 div[class^="column5-1"] {
-  background-color: #b0c4de;
+  /* background-color: #b0c4de; */
 }
 div[class^="column5-2"] {
-  background-color: #7fffd4;
+  /* background-color: #7fffd4; */
 }
 div[class^="column5-3"] {
-  background-color: #fffacd;
+  /* background-color: #fffacd; */
 }
 div[class^="column5-4"] {
-  background-color: #add8e6;
+  /* background-color: #add8e6; */
 }
 div[class^="column5-6"] {
-  background-color: #dda0dd;
+  /* background-color: #dda0dd; */
 }
 div[class^="column5-7"] {
-  background-color: #ffe4e1;
+  /* background-color: #ffe4e1; */
 }
 div[class^="column5-8"] {
-  background-color: #e9967a;
+  /* background-color: #e9967a; */
 }
 div[class^="column5-9"] {
-  background-color: #fff8dc;
+  /* background-color: #fff8dc; */
 }
 
 div[class^="column6-"] {
   border : 1px solid #808080;
-  background-color: #dda0dd;
+  /* background-color: #dda0dd; */
 }
 div[class^="column7-"] {
   border : 1px solid #808080;
-  background-color: #ffe4e1;
+  /* background-color: #ffe4e1; */
 }
 div[class^="column8-"] {
   border : 1px solid #808080;
-  background-color: #e9967a;
+  /* background-color: #e9967a; */
 }
 div[class^="column9-"] {
   border : 1px solid #808080;
-  background-color: #fff8dc;
+  /* background-color: #fff8dc; */
 }
 .grid-container {
   display: grid;

@@ -1,3 +1,7 @@
+function copyValue(id,copyId) {
+  document.getElementById(copyId).value = document.getElementById(id).value;
+}
+
 /**
    *起動時localstrageから値を取得
    */
